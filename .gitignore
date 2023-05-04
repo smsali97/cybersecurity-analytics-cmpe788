@@ -1,1 +1,6 @@
 *.csv
+# Ignore all files in the directory
+*
+
+# Except for .ipynb files
+!*.ipynb
